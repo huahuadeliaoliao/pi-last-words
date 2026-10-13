@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="brand-title brand-desc">
+  <title id="brand-title">pi-last-words</title>
+  <desc id="brand-desc">The project's own lowercase lw monogram and a musical closing fragment. This is distinct from the Pi host badge.</desc>
+  <text x="64" y="77" text-anchor="middle" font-family="Cochin" font-size="72" font-style="italic" fill="#272622">lw</text>
+  <path d="M32 96H95M32 99.8H95M32 103.6H95M32 107.4H95M32 111.2H95" stroke="#272622" stroke-width="1.25"/>
+  <ellipse cx="66" cy="103.6" rx="4.68" ry="3.12" transform="rotate(-12 66 103.6)" stroke="#272622" stroke-width="1.235"/>
+  <path d="M88.5 96V111.2" stroke="#272622" stroke-width="1.4"/>
+  <path d="M95 96V111.2" stroke="#272622" stroke-width="4.6"/>
+</svg>

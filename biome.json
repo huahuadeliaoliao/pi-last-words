@@ -1,6 +1,6 @@
 {
 	"$schema": "https://biomejs.dev/schemas/2.5.13/schema.json",
-	"files": { "includes": ["**", "!node_modules", "!.git"] },
+	"files": { "includes": ["**", "!node_modules", "!.git", "!docs/pi-badge.svg"] },
 	"formatter": { "enabled": true, "indentStyle": "tab", "lineWidth": 120 },
 	"linter": { "enabled": true, "rules": { "preset": "recommended" } },
 	"javascript": { "formatter": { "quoteStyle": "double", "semicolons": "always", "trailingCommas": "all" } },

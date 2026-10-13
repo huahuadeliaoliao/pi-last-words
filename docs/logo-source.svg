@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="228" viewBox="0 0 720 228" fill="none" role="img" aria-labelledby="brand-title brand-desc">
+  <title id="brand-title">pi-last-words — Work first. Words last.</title>
+  <desc id="brand-desc">A small official Pi monochrome badge above the flowing last words wordmark, followed by the tagline and a musical closing fragment. An independent extension for Pi.</desc>
+  <!-- Pi host badge: official geometry from https://pi.dev/favicon.svg,
+       rendered in its light-scheme color. The project identity remains last words. -->
+  <g transform="translate(350 23) scale(0.035714285714285714)" fill="#111111" aria-label="Pi">
+    <path d="M420 280H280V140H0V0H420V280Z"/>
+    <path d="M560 560H420V280H560V560Z"/>
+    <path d="M140 560H0V140H140V280H280V420H140V560Z"/>
+  </g>
+  <text x="360" y="106" text-anchor="middle" font-family="Cochin" font-size="80" font-style="italic" fill="#272622">last words</text>
+  <text x="360" y="154" text-anchor="middle" font-family="Optima" font-size="20" fill="#68665f">Work first. Words last.</text>
+  <!-- Original stylized notation, not an excerpt from a musical composition. -->
+  <path d="M284 177H430M284 181.5H430M284 186H430M284 190.5H430M284 195H430" stroke="#272622" stroke-width="1.15"/>
+  <ellipse cx="401" cy="186" rx="4.68" ry="3.12" transform="rotate(-12 401 186)" stroke="#272622" stroke-width="1.235"/>
+  <path d="M423.5 177V195" stroke="#272622" stroke-width="1.4"/>
+  <path d="M430 177V195" stroke="#272622" stroke-width="4.6"/>
+</svg>
