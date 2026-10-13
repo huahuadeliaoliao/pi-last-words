@@ -37,7 +37,9 @@
 		"check": "tsc --noEmit",
 		"lint": "biome check .",
 		"format": "biome format --write .",
-		"prepublishOnly": "npm run lint && npm run check"
+		"test": "node --import ./test/isolate.ts --test test/*.test.ts",
+		"test:tui": "python3 -u test/tui.py",
+		"prepublishOnly": "npm run lint && npm run check && npm test"
 	},
 	"peerDependencies": {
 		"@earendil-works/pi-agent-core": "*",
