@@ -31,7 +31,11 @@
 	"pi": {
 		"extensions": [
 			"./index.ts"
-		]
+		],
+		"image": "https://raw.githubusercontent.com/huahuadeliaoliao/pi-last-words/v0.1.0/docs/logo.png"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"scripts": {
 		"check": "tsc --noEmit",
